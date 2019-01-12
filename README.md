@@ -1,7 +1,7 @@
 # Homework 12 - BAMAZON
 • Student: Hugh Veal
 
-####Purpose
+#### Purpose
 The purpose of the site created here is from instruction and lecture given on Node.js and MySQL. 
 
 ##WELCOME TO THE BAMAZON STORE!
