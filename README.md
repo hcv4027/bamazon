@@ -8,6 +8,7 @@ The purpose of the site created here is from instruction and lecture given on No
 
 Scenario: Bamazon is an online store offering a wide range of consumer products to its users/customers.
 Currently, Bamazon is offering:
+
 Item | Department | Price
 -----|------------|------
 Starting Out with Java 5 | Reference/Textbooks | $59.95
